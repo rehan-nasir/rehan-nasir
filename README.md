@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, I'm Rehan 👋
 
-<!--
-**rehan-nasir/rehan-nasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science Student with experience in Java, Python, C, and HTML/CSS. I'm passionate about Software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- [GuessX](https://github.com/rehan-nasir/GuessX): (Lead coder) An Android App made using Android Studio (Java). Made in teams.
+- [Hangman](https://github.com/rehan-nasir/Hangman-GUI): Created a version of Hangman in Java GUI. Solo project.
+
+## Contact Me
+
+- Email: nasirehan@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rehannasir/

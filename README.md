@@ -2,12 +2,12 @@
 
 ## About Me
 
-I'm a Computer Science Student with experience in Java, Python, C, and HTML/CSS. I'm passionate about Software development.
+I'm a Computer Science Student with a passion in Machine Learning, Cybersecurity, Data Analysis and Software Engineering.
 
 ## Projects
 - [Etsy Sales Web-Scraper](https://github.com/rehan-nasir/etsy-sales-scraper): A Python Script that displays info about sellers on Etsy.
-- [Budget App](https://github.com/rehan-nasir/Budget-App-python): A Python script that keeps track of finances.
-- [GuessX](https://github.com/rehan-nasir/GuessX): An Android App made using Android Studio (Java). (Team project)
+- [Flight Price Predictions](https://github.com/rehan-nasir/flight-price-predictions): Visualizing/Analyzing flight data using machine learning algorithms. (
+- [GuessX](https://github.com/rehan-nasir/GuessX): An Android App made using Android Studio (Java).
 - [Hangman](https://github.com/rehan-nasir/Hangman-GUI): Created a version of Hangman in Java GUI.
 
 ## Contact Me

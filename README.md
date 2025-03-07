@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Computer Science Student with a passion for Machine Learning, Data Science and Software Engineering.
+I'm a Computer Science Student passionate in Data Science/Analytics and Software Engineering.
 
 ## Projects
 - [Etsy Sales Web-Scraper](https://github.com/rehan-nasir/etsy-sales-scraper): A Python Script that displays detailed information about sellers on Etsy.

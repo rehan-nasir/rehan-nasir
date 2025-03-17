@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Computer Science Student passionate in Data Science/Analytics and Software Engineering.
+I'm a computer science student passionate about data science/analytics and software engineering.
 
 ## Projects
 - [Canada Labour Force Analysis](https://github.com/rehan-nasir/canada_labour_force_analysis): An analysis of employment and population trends in Canada from 1976-Present, using python.
